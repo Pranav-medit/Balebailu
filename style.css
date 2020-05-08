@@ -1,0 +1,62 @@
+body{
+    background-color: #eff3c6;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.25em;
+}
+div{
+    width:80%;
+    margin:auto;
+}
+
+.tth{
+    /* background-image: url(mountain.png); */
+
+}
+#mt{
+    width:10em;
+    border-radius: 20%;
+    /* float :left; */
+}
+#par{
+    width :10em;
+    border-radius: 20%;
+}
+#brid{
+    width: 10em;
+    height :10em;
+    border-radius: 20%;
+}
+#ratha{
+    width: 10em;
+    height :10em;
+    border-radius: 20%;
+}
+#bale{
+    width: 10em;
+    height :10em;
+    border-radius: 20%;
+}
+#boy{
+    width: 10em;
+    height :10em;
+    border-radius: 20%;
+}
+#crc{
+    color:Green;
+}
+img{
+    border-radius: 20%;
+    
+}
+ul{
+    margin:auto;
+    text-align: left;
+    list-style-position: inside;
+    color: tomato;
+    /* position :relative;
+    left:8em; */
+}
+p{
+    text-align: left;
+}
